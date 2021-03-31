@@ -85,6 +85,12 @@
   width: 50%;
   padding: 1.5em;
   font-size: 0.9em;
+  border: solid #212025 1px; 
+}
+
+.post__solo{
+  padding: 1.5em;
+  font-size: 0.9em;
 }
 
 .post__meta {
@@ -107,6 +113,9 @@
   text-decoration: underline;
 }
 
+.post__link:hover {
+  text-decoration: none;
+}
 
 .post__category {
   display: inline-block;
@@ -119,5 +128,23 @@
   padding: 3px 6px;
   background-color: darkgrey;
   margin-bottom: 0.5em;
+}
+
+.post__category:hover{
+  color: #212025;
+  text-decoration: none;
+
+}
+
+.post__category--color-education{
+  background-color: #e76f51;
+}
+
+.post__category--color-fun{
+  background-color: #e9c46a;
+}
+
+.post__category--color-care{
+  background-color: #2a9d8f;
 }
 

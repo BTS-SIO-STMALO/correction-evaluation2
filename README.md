@@ -21,7 +21,7 @@ Tu as vu, il y a aussi des bordures tout atour de mes articles, tu peux les rajo
 La couleur que je veux : 212025
 
 Le résultat final de tout ça doit être comme sur le fichier HomeDef.png
-
+	
 ## Etape 3
 
 ### Objectif
@@ -52,7 +52,7 @@ Factoriser ce code HTML, c'est-à-dire éviter les répétitions
 - PHP = dynamique
 - copier ces fichiers HTML dans le répertoire `php` puis renommer avec la bonne extension de fichier
 - analyser le code HTML pour savoir quels contenus factoriser
-- créer des fichiers PHP si besoin, dans le répertoire `inc` comme par exemple des templates ;-)
+- créer des fichiers PHP si besoin, dans le répertoire `inc` c	omme par exemple des templates ;-)
 
 
 ## Étape 5 - Données dynamiques
